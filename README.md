@@ -2,8 +2,6 @@
 
 first file
 
-## Ipsum Below
+## Website Contents
 
-blablablabla
-
-adslfkasldfklasdkfldaskfl
+1. index.html
